@@ -10,7 +10,7 @@ To analyze temporal telecom usage patterns and detect congestion-prone cell towe
 Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis, Time-Series Analysis
 
 ## Dataset
-Source: Telecom Italia Big Data Challenge (Milan CDR)  
+Source: Telecom Italia Big Data Challenge (Milan CDR) from kaggle (https://www.kaggle.com/datasets/marcodena/mobile-phone-activity?select=sms-call-internet-mi-2013-11-07.csv) 
 Period: 1–7 November 2013  
 Size: ~15 million rows  
 Note: Raw data is not included due to dataset size and licensing constraints.
@@ -33,3 +33,4 @@ README.md
 
 ## Conclusion
 A real-world telecom analytics case study demonstrating Python-based EDA, time-series analysis, and business-oriented insights.
+
