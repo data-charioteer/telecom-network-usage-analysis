@@ -27,13 +27,9 @@ Note: Raw data is not included due to dataset size and licensing constraints.
 - A small number of cell towers handle disproportionately high traffic  
 - Strong correlation across services indicates simultaneous demand
 
-## Repository Structure
-- Telecom_Network_Usage_Analysis.ipynb
-- README.md
-- .gitignore
-
 ## Conclusion
 A real-world telecom analytics case study demonstrating Python-based EDA, time-series analysis, and business-oriented insights.
+
 
 
 
