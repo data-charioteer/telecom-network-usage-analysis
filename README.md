@@ -13,7 +13,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis, Time-Seri
 Source: Telecom Italia Big Data Challenge (Milan CDR) from kaggle (https://www.kaggle.com/datasets/marcodena/mobile-phone-activity?select=sms-call-internet-mi-2013-11-07.csv)
 
 Period: 1–7 November 2013  
-Size: around 15 million rows  
+Size: ~ 15 million rows  
 Note: Raw data is not included due to dataset size and licensing constraints.
 
 ## Key Analysis
@@ -29,6 +29,7 @@ Note: Raw data is not included due to dataset size and licensing constraints.
 
 ## Conclusion
 A real-world telecom analytics case study demonstrating Python-based EDA, time-series analysis, and business-oriented insights.
+
 
 
 
