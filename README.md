@@ -1,38 +1,114 @@
-# Telecom Network Usage Analysis (Milan CDR)
+# Telecom Network Usage Analysis
 
-## Overview
-Analysis of one week of telecom usage data (calls, SMS, and internet traffic) across cell towers in Milan to identify peak usage patterns, high-load towers, and insights for network optimization.
+## Project Overview
 
-## Problem Statement
-To analyze temporal telecom usage patterns and detect congestion-prone cell towers using aggregated Call Detail Records (CDR) data.
+Telecom operators generate massive volumes of data every day through calls, SMS, and internet usage. However, without proper analysis, it is difficult to identify peak traffic hours, congestion-prone cell towers, and overall usage patterns.
 
-## Tools & Skills
-Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis, Time-Series Analysis
+This project analyzes telecom network activity data to understand traffic distribution, detect peak usage periods, and identify high-load cell towers. The goal is to generate actionable insights that can help telecom companies optimize network performance and improve user experience.
 
-## Dataset
-Source: Telecom Italia Big Data Challenge (Milan CDR) from kaggle (https://www.kaggle.com/datasets/marcodena/mobile-phone-activity?select=sms-call-internet-mi-2013-11-07.csv)
+---
 
-Period: 1–7 November 2013  
-Size: ~ 15 million rows  
-Note: Raw data is not included due to dataset size and licensing constraints.
+##  Problem Statement
 
-## Key Analysis
-- Daily and hourly traffic trend analysis  
-- Peak usage hour identification  
-- High-load cell tower (CellID) analysis  
-- Correlation analysis between calls, SMS, and internet traffic  
+Telecom networks handle millions of activity records daily. Identifying peak traffic hours and overloaded cell towers is critical for:
+
+- Preventing network congestion  
+- Improving service quality  
+- Optimizing infrastructure investment  
+- Enhancing customer experience  
+
+This project performs exploratory and time-series analysis on telecom usage data to uncover meaningful patterns.
+
+---
+
+## Dataset Information
+
+- Source: Telecom Italia Big Data Challenge Dataset  
+- Location: Milan, Italy  
+- Time Period: 1 Week  
+- Total Records: ~15 million  
+- Data Includes:
+  - Call activity
+  - SMS activity
+  - Internet traffic
+  - Cell tower ID
+  - Timestamp information
+
+---
+
+## Tools & Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## Data Cleaning & Preparation
+
+- Handled missing values  
+- Converted timestamps to proper datetime format  
+- Extracted date and hour for time-series analysis  
+- Aggregated traffic by hour and cell tower  
+- Removed inconsistencies and validated data integrity  
+
+---
+
+## Analysis Performed
+
+### Hourly Traffic Analysis
+- Identified peak network usage hours  
+- Compared call, SMS, and internet activity trends  
+
+### Cell Tower Load Analysis
+- Calculated total traffic per CellID  
+- Identified high-load towers  
+- Detected potential congestion points  
+
+### Correlation Analysis
+- Analyzed relationship between calls, SMS, and internet usage  
+- Observed simultaneous demand trends across services  
+
+---
 
 ## Key Insights
-- Evening hours show peak network usage  
+
+- Evening hours show peak telecom traffic usage  
 - A small number of cell towers handle disproportionately high traffic  
-- Strong correlation across services indicates simultaneous demand
+- Strong correlation exists between call, SMS, and internet usage  
+- Network congestion risk is concentrated in specific high-load towers  
 
-## Conclusion
-A real-world telecom analytics case study demonstrating Python-based EDA, time-series analysis, and business-oriented insights.
+---
 
+## Business Impact
 
+This analysis can help telecom companies:
 
+- Identify congestion-prone towers  
+- Optimize network capacity  
+- Improve infrastructure planning  
+- Enhance overall service quality  
 
+---
 
+## Skills Demonstrated
 
+- Large dataset handling (~15 million records)  
+- Data cleaning and preprocessing  
+- Time-series analysis  
+- Aggregation and traffic pattern detection  
+- Data visualization  
+- Business insight generation  
 
+---
+
+## 📂 Project Structure
+telecom-network-usage-analysis/
+│
+├── data/
+├── notebooks/
+├── images/
+└── README.md
