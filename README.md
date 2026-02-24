@@ -110,5 +110,5 @@ telecom-network-usage-analysis/
 │
 ├── data/
 ├── notebooks/
-├── images/
 └── README.md
+
