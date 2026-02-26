@@ -106,9 +106,10 @@ This analysis can help telecom companies:
 ---
 
 ## 📂 Project Structure
-telecom-network-usage-analysis/
+Telecom_Network_Usage_Analysis/
 │
-├── data/
-├── notebooks/
-└── README.md
+├── .gitignore
+├── README.md
+└── Telecom_Network_Usage_Analysis.ipynb
+
 
