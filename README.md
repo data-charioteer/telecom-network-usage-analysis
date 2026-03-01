@@ -105,12 +105,5 @@ This analysis can help telecom companies:
 
 ---
 
-## Project Structure
-Telecom_Network_Usage_Analysis/
-│
-├── .gitignore
-├── README.md
-└── Telecom_Network_Usage_Analysis.ipynb
-
 
 
