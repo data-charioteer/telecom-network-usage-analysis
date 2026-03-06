@@ -107,6 +107,7 @@ This analysis can help telecom companies:
 
 ## Project Structure
 Telecom_Network_Usage_Analysis/
+
 │
 
 ├── .gitignore
@@ -115,6 +116,7 @@ Telecom_Network_Usage_Analysis/
 
 └── Telecom_Network_Usage_Analysis.ipynb
 	
+
 
 
 
