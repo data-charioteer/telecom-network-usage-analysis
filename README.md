@@ -36,7 +36,7 @@ This project performs exploratory and time-series analysis on telecom usage data
 
 ----
 
-## Tools & Technologies Used
+## Tools and Technologies Used
 
 - Python
 - Pandas
