@@ -6,7 +6,7 @@ Telecom operators generate massive volumes of data every day through calls, SMS,
 
 This project analyzes telecom network activity data to understand traffic distribution, detect peak usage periods, and identify high-load cell towers. The goal is to generate actionable insights that can help telecom companies optimize network performance and improve user experience.
 
-----
+--
 
 ##  Problem Statement
 
@@ -34,7 +34,7 @@ This project performs exploratory and time-series analysis on telecom usage data
   - Cell tower ID
   - Timestamp information
 
-----
+--
 
 ## Tools and Technologies Used
 
@@ -55,7 +55,7 @@ This project performs exploratory and time-series analysis on telecom usage data
 - Aggregated traffic by hour and cell tower  
 - Removed inconsistencies and validated data integrity  
 
-----
+--
 
 ## Analysis Performed
 
@@ -72,7 +72,7 @@ This project performs exploratory and time-series analysis on telecom usage data
 - Analyzed relationship between calls, SMS, and internet usage  
 - Observed simultaneous demand trends across services  
 
-----
+--
 
 ## Key Insights
 
@@ -81,7 +81,7 @@ This project performs exploratory and time-series analysis on telecom usage data
 - Strong correlation exists between call, SMS, and internet usage  
 - Network congestion risk is concentrated in specific high-load towers  
 
-----
+--
 
 ## Business Impact
 
@@ -92,7 +92,7 @@ This analysis can help telecom companies:
 - Improve infrastructure planning  
 - Enhance overall service quality  
 
----
+--
 
 ## Skills Demonstrated
 
@@ -103,7 +103,7 @@ This analysis can help telecom companies:
 - Data visualization  
 - Business insight generation  
 
-----
+--
 
 ## Project Structure
 Telecom_Network_Usage_Analysis/
