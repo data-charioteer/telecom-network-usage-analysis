@@ -6,7 +6,7 @@ Telecom operators generate massive volumes of data every day through calls, SMS,
 
 This project analyzes telecom network activity data to understand traffic distribution, detect peak usage periods, and identify high-load cell towers. The goal is to generate actionable insights that can help telecom companies optimize network performance and improve user experience.
 
---
+---
 
 ##  Problem Statement
 
@@ -19,7 +19,7 @@ Telecom networks handle millions of activity records daily. Identifying peak tra
 
 This project performs exploratory and time-series analysis on telecom usage data to uncover meaningful patterns.
 
-----
+---
 
 ## Dataset Information
 
