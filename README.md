@@ -47,7 +47,7 @@ This project performs exploratory and time-series analysis on telecom usage data
 
 ------
 
-## Data Cleaning & Preparation
+## Data Cleaning and Preparation
 
 - Handled missing values  
 - Converted timestamps to proper datetime format  
