@@ -31,7 +31,7 @@ This project addresses:
 
 | Field | Detail |
 |---|---|
-| **Source** | [Telecom Italia Big Data Challenge](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV) |
+| **Source** | https://www.kaggle.com/datasets/marcodena/mobile-phone-activity?select=sms-call-internet-mi-2013-11-07.csv |
 | **Location** | Milan, Italy |
 | **Time Period** | 1–7 November 2013 |
 | **Total Records** | ~15 million |
