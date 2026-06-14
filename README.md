@@ -49,7 +49,7 @@ telecom-network-usage-analysis/
 ├── README.md
 ├── .gitignore
 ├── Telecom_Network_Usage_Analysis.ipynb
-└── images/                         ← add chart screenshots here
+└── images/                         
     ├── hourly_traffic.png
     ├── daily_usage.png
     ├── top10_towers.png
